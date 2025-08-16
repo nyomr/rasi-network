@@ -1,0 +1,3202 @@
+[
+  {
+    "owner": "Andi Santoso",
+    "company": "PT Sejahtera Berkah"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Hendra Pratama",
+    "company": "PT Bersama Bersama"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Hendra Pratama",
+    "company": "PT Makmur Gemilang"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Budi Ramadhan",
+    "company": "PT Cemerlang Bersama"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Rudi Pratama",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Rudi Pratama",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Fitri Lestari",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Andi Putra",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Andi Sari",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Agus Ramadhan",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Rina Susanto",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Rina Putra",
+    "company": "PT Berkah Makmur"
+  },
+  {
+    "owner": "Andi Sari",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Andi Putra",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Ratna Susanto",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Dewi Susanto",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Budi Ramadhan",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Berkah Bersama"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Hendra Putra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Fitri Pratama",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Dewi Susanto",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Agus Ramadhan",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Makmur Makmur"
+  },
+  {
+    "owner": "Rina Saputra",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Berkah Sentosa"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Fajar Lestari",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Yudi Maulana",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Siti Pratama",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Sentosa Sentosa"
+  },
+  {
+    "owner": "Dian Santoso",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Ratna Santoso",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Ratna Pratama",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Rina Pratama",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Rina Santoso",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Citra Putra",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Dian Sari",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Siti Pratama",
+    "company": "PT Sejahtera Makmur"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Citra Santoso",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Fitri Maulana",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Andi Maulana",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Rudi Saputra",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Dian Ramadhan",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Dewi Susanto",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Fitri Sari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Fitri Lestari",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Citra Santoso",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Rina Lestari",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Siti Ramadhan",
+    "company": "PT Jaya Jaya"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Fitri Maulana",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Jaya Jaya"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Rudi Saputra",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Yudi Putra",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Dewi Pratama",
+    "company": "PT Berkah Makmur"
+  },
+  {
+    "owner": "Agus Sari",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Yudi Putra",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Hendra Maulana",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Agus Santoso",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Rudi Pratama",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Siti Ramadhan",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Dewi Susanto",
+    "company": "PT Sentosa Sentosa"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Mandiri Berkah"
+  },
+  {
+    "owner": "Dian Santoso",
+    "company": "PT Makmur Gemilang"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Berkah Makmur"
+  },
+  {
+    "owner": "Yudi Putra",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Sentosa Bersama"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Bersama Bersama"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Yudi Saputra",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Dian Sari",
+    "company": "PT Sentosa Bersama"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Fitri Maulana",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Siti Ramadhan",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Fitri Santoso",
+    "company": "PT Mandiri Berkah"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Dian Saputra",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Fajar Ramadhan",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Rudi Saputra",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Fajar Ramadhan",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Abadi Abadi"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Budi Wijaya",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Makmur Sentosa"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Citra Pratama",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Andi Putra",
+    "company": "PT Makmur Makmur"
+  },
+  {
+    "owner": "Yudi Wijaya",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Citra Ramadhan",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Budi Maulana",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Rina Susanto",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Agus Santoso",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Andi Wijaya",
+    "company": "PT Makmur Sentosa"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Dian Susanto",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Agus Sari",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Rina Santoso",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Ratna Santoso",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Andi Santoso",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Siti Sari",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Citra Sari",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Fitri Lestari",
+    "company": "PT Sentosa Bersama"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Hendra Pratama",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Jaya Sejahtera"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Citra Ramadhan",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Andi Sari",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Berkah Sentosa"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Sentosa Gemilang"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Jaya Jaya"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Abadi Abadi"
+  },
+  {
+    "owner": "Hendra Putra",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Sejahtera Berkah"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Makmur Sentosa"
+  },
+  {
+    "owner": "Budi Saputra",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Budi Wijaya",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Bersama Bersama"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Hendra Wijaya",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Fitri Lestari",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Yudi Sari",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Citra Putra",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Hendra Wijaya",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Yudi Sari",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Yudi Santoso",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Rina Santoso",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Fitri Maulana",
+    "company": "PT Sejahtera Makmur"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Agus Sari",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Yudi Santoso",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Budi Maulana",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Citra Santoso",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Fitri Wijaya",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Abadi Abadi"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Hendra Wijaya",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Yudi Maulana",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Fajar Wijaya",
+    "company": "PT Sejahtera Berkah"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Agus Pratama",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Dian Susanto",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Andi Wijaya",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Fajar Ramadhan",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Andi Wijaya",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Citra Sari",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Hendra Maulana",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Budi Pratama",
+    "company": "PT Gemilang Berkah"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Dewi Saputra",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Sentosa Bersama"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Rina Santoso",
+    "company": "PT Sejahtera Makmur"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Gemilang Berkah"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Agus Susanto",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Berkah Bersama"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Citra Susanto",
+    "company": "PT Sentosa Gemilang"
+  },
+  {
+    "owner": "Citra Putra",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Yudi Saputra",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Jaya Sejahtera"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Berkah Sentosa"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Fajar Wijaya",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Sentosa Gemilang"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Fitri Wijaya",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Rina Susanto",
+    "company": "PT Abadi Abadi"
+  },
+  {
+    "owner": "Ratna Ramadhan",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Citra Ramadhan",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Agus Ramadhan",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Fajar Wijaya",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Agus Susanto",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Makmur Sentosa"
+  },
+  {
+    "owner": "Citra Sari",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Agus Pratama",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Citra Santoso",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Dian Saputra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Rina Saputra",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Siti Santoso",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Mandiri Berkah"
+  },
+  {
+    "owner": "Siti Pratama",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Ratna Ramadhan",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Andi Maulana",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Makmur Jaya"
+  },
+  {
+    "owner": "Dewi Susanto",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Budi Wijaya",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Fitri Ramadhan",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Budi Ramadhan",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Budi Pratama",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Sentosa Gemilang"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Rudi Maulana",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Rudi Saputra",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Sejahtera Berkah"
+  },
+  {
+    "owner": "Siti Santoso",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Hendra Santoso",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Budi Maulana",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Dewi Lestari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Dian Ramadhan",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Fitri Maulana",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Agus Santoso",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Yudi Sari",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Fajar Wijaya",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Dian Sari",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Fitri Wijaya",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Fitri Sari",
+    "company": "PT Abadi Abadi"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Andi Pratama",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Rina Lestari",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Andi Putra",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Yudi Sari",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Siti Sari",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Rudi Lestari",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Rina Lestari",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Rina Pratama",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Andi Santoso",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Sejahtera Berkah"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Yudi Maulana",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Rina Santoso",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Rina Maulana",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Budi Saputra",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Abadi Cemerlang"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Budi Susanto",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Sentosa Gemilang"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Fitri Santoso",
+    "company": "PT Berkah Sentosa"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Andi Wijaya",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Fitri Pratama",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Makmur Gemilang"
+  },
+  {
+    "owner": "Andi Sari",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Hendra Putra",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Dewi Santoso",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Agus Ramadhan",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Agus Ramadhan",
+    "company": "PT Jaya Sejahtera"
+  },
+  {
+    "owner": "Andi Pratama",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Dewi Lestari",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Budi Pratama",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Budi Susanto",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Citra Susanto",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Hendra Putra",
+    "company": "PT Sejahtera Sentosa"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Rina Saputra",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Dian Santoso",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Yudi Wijaya",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Sejahtera Sentosa"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Ratna Susanto",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Budi Maulana",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Jaya Makmur"
+  },
+  {
+    "owner": "Fitri Pratama",
+    "company": "PT Abadi Makmur"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Bersama Bersama"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Fitri Sari",
+    "company": "PT Berkah Berkah"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Budi Wijaya",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Hendra Saputra",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Hendra Santoso",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Jaya Jaya"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Yudi Saputra",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Andi Sari",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Agus Santoso",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Rina Wijaya",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Fajar Lestari",
+    "company": "PT Makmur Makmur"
+  },
+  {
+    "owner": "Agus Pratama",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Andi Susanto",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Citra Maulana",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Fitri Ramadhan",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Rudi Susanto",
+    "company": "PT Gemilang Berkah"
+  },
+  {
+    "owner": "Andi Saputra",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Andi Maulana",
+    "company": "PT Cemerlang Bersama"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Mandiri Jaya"
+  },
+  {
+    "owner": "Hendra Maulana",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Ratna Ramadhan",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Citra Pratama",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Fajar Lestari",
+    "company": "PT Berkah Abadi"
+  },
+  {
+    "owner": "Fajar Lestari",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Budi Pratama",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Dewi Lestari",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Citra Susanto",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Ratna Santoso",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Ratna Susanto",
+    "company": "PT Makmur Gemilang"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Dian Wijaya",
+    "company": "PT Makmur Mandiri"
+  },
+  {
+    "owner": "Rina Pratama",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Budi Susanto",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Cemerlang Cemerlang"
+  },
+  {
+    "owner": "Rina Putra",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Rina Putra",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Berkah Bersama"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Hendra Maulana",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Andi Pratama",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Fitri Santoso",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Budi Ramadhan",
+    "company": "PT Cemerlang Abadi"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Rudi Pratama",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Yudi Maulana",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Jaya Sejahtera"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Abadi Berkah"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Fitri Putra",
+    "company": "PT Makmur Sejahtera"
+  },
+  {
+    "owner": "Rudi Ramadhan",
+    "company": "PT Berkah Bersama"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Rina Saputra",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Fajar Ramadhan",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Yudi Saputra",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Andi Lestari",
+    "company": "PT Gemilang Sentosa"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Rudi Saputra",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Cemerlang Sejahtera"
+  },
+  {
+    "owner": "Andi Maulana",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Gemilang Abadi"
+  },
+  {
+    "owner": "Fitri Ramadhan",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Hendra Santoso",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Rina Susanto",
+    "company": "PT Jaya Sejahtera"
+  },
+  {
+    "owner": "Siti Pratama",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Dian Putra",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Gemilang Mandiri"
+  },
+  {
+    "owner": "Yudi Saputra",
+    "company": "PT Cemerlang Bersama"
+  },
+  {
+    "owner": "Ratna Putra",
+    "company": "PT Gemilang Jaya"
+  },
+  {
+    "owner": "Fitri Wijaya",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Andi Pratama",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Mandiri Gemilang"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Siti Sari",
+    "company": "PT Makmur Makmur"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Fajar Wijaya",
+    "company": "PT Bersama Gemilang"
+  },
+  {
+    "owner": "Yudi Ramadhan",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Dewi Putra",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Hendra Putra",
+    "company": "PT Sejahtera Sentosa"
+  },
+  {
+    "owner": "Agus Putra",
+    "company": "PT Gemilang Berkah"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Agus Maulana",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Yudi Lestari",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Siti Lestari",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Agus Susanto",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Budi Pratama",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Ratna Wijaya",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Abadi Bersama"
+  },
+  {
+    "owner": "Fitri Ramadhan",
+    "company": "PT Jaya Bersama"
+  },
+  {
+    "owner": "Andi Maulana",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Ratna Pratama",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Ratna Santoso",
+    "company": "PT Sejahtera Abadi"
+  },
+  {
+    "owner": "Agus Saputra",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Citra Saputra",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Ratna Maulana",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Jaya Mandiri"
+  },
+  {
+    "owner": "Fajar Putra",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Siti Wijaya",
+    "company": "PT Sentosa Berkah"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Siti Putra",
+    "company": "PT Sejahtera Sejahtera"
+  },
+  {
+    "owner": "Ratna Lestari",
+    "company": "PT Makmur Sentosa"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Andi Santoso",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Jaya Sentosa"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Sentosa Jaya"
+  },
+  {
+    "owner": "Dian Sari",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Jaya Abadi"
+  },
+  {
+    "owner": "Dewi Ramadhan",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Jaya Gemilang"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Budi Putra",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Citra Pratama",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Dewi Lestari",
+    "company": "PT Gemilang Sejahtera"
+  },
+  {
+    "owner": "Fajar Santoso",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Ratna Pratama",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Agus Pratama",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Gemilang Cemerlang"
+  },
+  {
+    "owner": "Dian Pratama",
+    "company": "PT Abadi Gemilang"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Yudi Pratama",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Yudi Maulana",
+    "company": "PT Bersama Berkah"
+  },
+  {
+    "owner": "Hendra Susanto",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Rudi Putra",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Rudi Santoso",
+    "company": "PT Berkah Cemerlang"
+  },
+  {
+    "owner": "Fajar Maulana",
+    "company": "PT Mandiri Makmur"
+  },
+  {
+    "owner": "Fajar Pratama",
+    "company": "PT Bersama Jaya"
+  },
+  {
+    "owner": "Ratna Saputra",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Citra Putra",
+    "company": "PT Makmur Abadi"
+  },
+  {
+    "owner": "Agus Wijaya",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Fitri Wijaya",
+    "company": "PT Sentosa Bersama"
+  },
+  {
+    "owner": "Dian Saputra",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Dian Santoso",
+    "company": "PT Bersama Makmur"
+  },
+  {
+    "owner": "Rina Sari",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Dian Ramadhan",
+    "company": "PT Sejahtera Makmur"
+  },
+  {
+    "owner": "Hendra Sari",
+    "company": "PT Berkah Jaya"
+  },
+  {
+    "owner": "Citra Susanto",
+    "company": "PT Berkah Sejahtera"
+  },
+  {
+    "owner": "Andi Santoso",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Budi Lestari",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Dian Maulana",
+    "company": "PT Gemilang Gemilang"
+  },
+  {
+    "owner": "Budi Saputra",
+    "company": "PT Sentosa Sejahtera"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Rudi Pratama",
+    "company": "PT Cemerlang Berkah"
+  },
+  {
+    "owner": "Budi Sari",
+    "company": "PT Bersama Abadi"
+  },
+  {
+    "owner": "Budi Santoso",
+    "company": "PT Mandiri Mandiri"
+  },
+  {
+    "owner": "Siti Maulana",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Citra Santoso",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Mandiri Sejahtera"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Mandiri Bersama"
+  },
+  {
+    "owner": "Yudi Santoso",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Hendra Ramadhan",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Dian Lestari",
+    "company": "PT Cemerlang Gemilang"
+  },
+  {
+    "owner": "Fitri Santoso",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Hendra Pratama",
+    "company": "PT Sentosa Makmur"
+  },
+  {
+    "owner": "Fajar Ramadhan",
+    "company": "PT Mandiri Cemerlang"
+  },
+  {
+    "owner": "Budi Maulana",
+    "company": "PT Mandiri Berkah"
+  },
+  {
+    "owner": "Fajar Sari",
+    "company": "PT Abadi Sejahtera"
+  },
+  {
+    "owner": "Dewi Pratama",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Rina Saputra",
+    "company": "PT Makmur Makmur"
+  },
+  {
+    "owner": "Fajar Susanto",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Agus Sari",
+    "company": "PT Gemilang Makmur"
+  },
+  {
+    "owner": "Hendra Wijaya",
+    "company": "PT Cemerlang Mandiri"
+  },
+  {
+    "owner": "Dewi Sari",
+    "company": "PT Mandiri Sentosa"
+  },
+  {
+    "owner": "Budi Susanto",
+    "company": "PT Sentosa Abadi"
+  },
+  {
+    "owner": "Fajar Saputra",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Fitri Sari",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Rina Susanto",
+    "company": "PT Bersama Sentosa"
+  },
+  {
+    "owner": "Hendra Maulana",
+    "company": "PT Bersama Cemerlang"
+  },
+  {
+    "owner": "Citra Lestari",
+    "company": "PT Cemerlang Makmur"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Abadi Jaya"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Makmur Bersama"
+  },
+  {
+    "owner": "Yudi Santoso",
+    "company": "PT Sejahtera Jaya"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Sentosa Mandiri"
+  },
+  {
+    "owner": "Agus Lestari",
+    "company": "PT Berkah Mandiri"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Sejahtera Mandiri"
+  },
+  {
+    "owner": "Yudi Susanto",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Rudi Maulana",
+    "company": "PT Mandiri Abadi"
+  },
+  {
+    "owner": "Ratna Sari",
+    "company": "PT Abadi Mandiri"
+  },
+  {
+    "owner": "Rudi Sari",
+    "company": "PT Makmur Berkah"
+  },
+  {
+    "owner": "Rudi Maulana",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Rina Ramadhan",
+    "company": "PT Berkah Gemilang"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Abadi Sentosa"
+  },
+  {
+    "owner": "Dewi Wijaya",
+    "company": "PT Bersama Mandiri"
+  },
+  {
+    "owner": "Yudi Santoso",
+    "company": "PT Sejahtera Cemerlang"
+  },
+  {
+    "owner": "Siti Saputra",
+    "company": "PT Sejahtera Bersama"
+  },
+  {
+    "owner": "Fitri Saputra",
+    "company": "PT Sejahtera Gemilang"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Sentosa Sentosa"
+  },
+  {
+    "owner": "Ratna Pratama",
+    "company": "PT Sentosa Cemerlang"
+  },
+  {
+    "owner": "Rudi Wijaya",
+    "company": "PT Jaya Cemerlang"
+  },
+  {
+    "owner": "Yudi Wijaya",
+    "company": "PT Bersama Sejahtera"
+  },
+  {
+    "owner": "Siti Susanto",
+    "company": "PT Cemerlang Jaya"
+  },
+  {
+    "owner": "Andi Ramadhan",
+    "company": "PT Jaya Berkah"
+  },
+  {
+    "owner": "Dewi Maulana",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Citra Wijaya",
+    "company": "PT Gemilang Bersama"
+  },
+  {
+    "owner": "Fitri Susanto",
+    "company": "PT Makmur Cemerlang"
+  },
+  {
+    "owner": "Hendra Lestari",
+    "company": "PT Cemerlang Sentosa"
+  },
+  {
+    "owner": "Yudi Wijaya",
+    "company": "PT Mandiri Jaya"
+  }
+]
